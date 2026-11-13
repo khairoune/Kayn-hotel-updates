@@ -1,8 +1,8 @@
 {
- "version": "1.3.4",
- "file": "kayn-hotel-1.3.4.zip",
- "sha256": "37fcc557b500b32943a1093b9d05abad1ae4a5f68828e282367efe5dcc29ea34",
- "size": 8572875,
- "date": "2026-11-13T03:31:11.192Z",
- "notes": "Version de test : vérification de la mise à jour par la cloche. Aucun changement visible."
+ "version": "1.3.5",
+ "file": "kayn-hotel-1.3.5.zip",
+ "sha256": "229a2aa3c00de4fa3e2c62e84b42f06c28b00d7e2451e5b80a323dc248db3008",
+ "size": 8572936,
+ "date": "2026-11-13T03:43:42.921Z",
+ "notes": "Pourquoi cette mise à jour :\n• Correctif : une version déjà installée n'est plus proposée dans la cloche ni dans l'écran Mises à jour.\n• Confidentialité : la source des mises à jour n'est plus affichée dans le logiciel."
 }
