@@ -1,8 +1,8 @@
 {
- "version": "1.3.7",
- "file": "kayn-hotel-1.3.7.zip",
- "sha256": "a2e432f458509e8750ab3c4935d80d87f5f01bd496d3b2367ec5f713a577f682",
- "size": 8628610,
- "date": "2026-11-15T07:04:44.267Z",
- "notes": "Pourquoi cette mise à jour : protéger votre licence KAYN Hotel et vous prévenir à temps.\n- Licence vérifiée et signée par KAYN Services (impossible à modifier ou à copier sur un autre PC).\n- Rappel 15 jours avant la fin de l'essai ou de l'abonnement.\n- PC sans Internet : avertissement après plusieurs jours, puis demande de connexion ; tout se débloque dès que le PC se reconnecte.\n- Hôtel sans Internet : activation possible avec un code donné par KAYN Services (Administration > Système).\n- Arrêt et mises à jour plus fiables quand KAYN Hotel démarre tout seul avec Windows.\nVos données ne sont jamais touchées."
+ "version": "1.3.8",
+ "file": "kayn-hotel-1.3.8.zip",
+ "sha256": "eac5a842511c4843b36ce63fb362801e13b89e87043cab89ed2d2297e9bc9ab4",
+ "size": 8629977,
+ "date": "2026-11-15T15:17:46.351Z",
+ "notes": "Pourquoi cette mise à jour : à la première installation, il fallait chercher un code dans un fichier caché. Désormais, sur le PC serveur, l'assistant démarre directement sans code ; depuis un autre appareil, un « code de sécurité » reste demandé. Textes FR / AR / EN corrigés."
 }
