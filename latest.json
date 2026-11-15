@@ -1,8 +1,8 @@
 {
- "version": "1.3.6",
- "file": "kayn-hotel-1.3.6.zip",
- "sha256": "881b7593acf86df0d47401f19a146b06178b1010b8851f330e36309387ad3905",
- "size": 8603051,
- "date": "2026-11-13T04:49:56.493Z",
- "notes": "Pourquoi cette mise à jour :\n• Fiche de police conforme au modèle officiel « Fiche de voyageur » (recto / verso, français et arabe) : nom de jeune fille, wilaya de naissance, pièce « délivrée par », date d'entrée en Algérie pour les étrangers (obligatoire), nombre d'enfants de moins de 15 ans, « Fait à… le… ».\n• Sécurité : bouclier anti-robot (blocage automatique des robots, essais de mots de passe et recherches de failles ; déblocage dans Administration → Sécurité).\n• Sécurité : composant de navigation mis à jour (failles connues corrigées).\n• Assistance : signal quotidien vers KAYN Services (nom, ville et téléphone de l'hôtel, version, compteurs). Aucune donnée client, aucun montant, aucun mot de passe.\n• Mention « © KAYN Services » sur l'écran de connexion."
+ "version": "1.3.7",
+ "file": "kayn-hotel-1.3.7.zip",
+ "sha256": "a2e432f458509e8750ab3c4935d80d87f5f01bd496d3b2367ec5f713a577f682",
+ "size": 8628610,
+ "date": "2026-11-15T07:04:44.267Z",
+ "notes": "Pourquoi cette mise à jour : protéger votre licence KAYN Hotel et vous prévenir à temps.\n- Licence vérifiée et signée par KAYN Services (impossible à modifier ou à copier sur un autre PC).\n- Rappel 15 jours avant la fin de l'essai ou de l'abonnement.\n- PC sans Internet : avertissement après plusieurs jours, puis demande de connexion ; tout se débloque dès que le PC se reconnecte.\n- Hôtel sans Internet : activation possible avec un code donné par KAYN Services (Administration > Système).\n- Arrêt et mises à jour plus fiables quand KAYN Hotel démarre tout seul avec Windows.\nVos données ne sont jamais touchées."
 }
