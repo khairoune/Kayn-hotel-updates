@@ -1,8 +1,8 @@
 {
- "version": "1.3.9",
- "file": "kayn-hotel-1.3.9.zip",
- "sha256": "30a9e7ed5d4cd1230001af7e8dcff9297b8db1cb7dc19aca8f6d20185cf4b711",
- "size": 8637349,
- "date": "2026-11-16T07:49:07.361Z",
- "notes": "Pourquoi cette mise à jour : un administrateur a tapé son adresse e-mail à la place de l'identifiant et la connexion était refusée alors que le mot de passe était bon. Désormais, on se connecte avec l'identifiant, l'adresse e-mail ou le numéro de téléphone du compte."
+ "version": "1.3.10",
+ "file": "kayn-hotel-1.3.10.zip",
+ "sha256": "fa18436d8c26ad33c45ee58a3033b49be1094a203070152cfe69d6bc5e49c73a",
+ "size": 8637286,
+ "date": "2026-11-18T19:12:47.878Z",
+ "notes": "Pourquoi cette mise à jour : l'installation demandait 4 écrans et un mot de passe compliqué. Désormais, il suffit d'écrire le prénom, le nom et un mot de passe, puis on entre directement dans KAYN Hotel ; les informations de l'hôtel se complètent ensuite dans Administration."
 }
